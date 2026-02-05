@@ -15,7 +15,7 @@ The dashboard was built using **Power BI / Microsoft Excel**, leveraging interac
 
 ## Dashboard Preview
 
-![Sales Dashboard Preview](sales_dashboard.png)
+![Sales Dashboard Preview](Sales_dashboard.png)
 
 ## Data Sources
 
