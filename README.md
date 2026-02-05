@@ -15,7 +15,7 @@ The dashboard was built using **Power BI / Microsoft Excel**, leveraging interac
 
 ## Dashboard Preview
 
-![Sales Dashboard Preview](Sales_dashboard)
+![Sales Dashboard Preview](sales_dashboard.png)
 
 ## Data Sources
 
@@ -53,9 +53,4 @@ The dashboard tracks and visualizes several important business metrics, includin
 2. Review the dashboard preview image for visual insights  
 3. Use the dashboard to analyze sales performance, trends, and customer behavior  
 
-## Future Enhancements
-
-- Recreating the dashboard using updated or sample datasets  
-- Migrating the dashboard fully to Power BI Service  
-- Adding sales forecasting and predictive analytics  
-- Enhancing customer segmentation and profitability analysis  
+ 
